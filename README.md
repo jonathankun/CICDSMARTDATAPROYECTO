@@ -7,6 +7,7 @@
 Pipeline automatizado de datos para análisis de PELICULAS en el tiempo con arquitectura de tres capas y despliegue continuo.
 <hr>
 
+
 ## Arquitectura
 ![](Arquitectura.png)
 ---
