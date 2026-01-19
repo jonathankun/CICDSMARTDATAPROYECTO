@@ -97,7 +97,7 @@ CICDSMARTDATAPROYECTO/
 </tr>
 </table>
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 <div align="center">
 
@@ -114,3 +114,8 @@ CICDSMARTDATAPROYECTO/
 </div>
 
 ---
+
+
+## Anexos 
+Workflow en Producción 
+![](WF_ADB_run.jpg)
