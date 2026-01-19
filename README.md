@@ -108,7 +108,7 @@ CICDSMARTDATAPROYECTO/
 | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) | Framework de transformación de datos |
 | ![ADLS](https://img.shields.io/badge/ADLS_Gen2-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Data Lake para almacenamiento persistente |
 | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | Automatización CI/CD |
-| ![Databricks Dashboards](https://img.shields.io/badge/Databricks Dashboards-F2C81?style=for-the-badge&logo=databricks&logoColor=black) |  Visualización |
+| ![Databricks Dashboards](https://img.shields.io/badge/Databricks%20Dashboards-F2C81?style=for-the-badge&logo=databricks&logoColor=black) |  Visualización |
 | ![Databricks Dashboards](https://img.shields.io/badge/Power_BI-Power_BI_Data_Analyst_Associate-FEB800) |  Visualización |
 
 </div>
